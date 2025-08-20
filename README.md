@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Sweta Kumari
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, and Natural Language Progessing
-- 🌱 I’m currently learning Python for Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👋 Hi, I’m Sweta 
+- 👀 I’m interested in Data Analytics, Power BI, tableau, SQL, Python
+- 💞️ I’m looking to collaborate on Data Analytics Projects
 - 📫 How to reach me https://www.linkedin.com/in/sweta-kumari-a9ba1722b/
 
 <!---
